@@ -1,0 +1,16 @@
+To convert an ER model to a database schema :
+
+1. Identify the entities in ER model
+
+2. For each entity, identify the attributes that describe the properties or characteristics of the entity.
+
+3. Identify the relationships between the entities. Relationships represent the associations or connections between entities.
+
+4. Determine the cardinality of each relationship, which defines how many instances of one entity are associated with instances of another entity.
+
+5. Identify the primary key for each entity. The primary key uniquely identifies each record or instance of the entity.
+
+6. Determine the foreign keys that establish relationships between entities. Foreign keys are attributes that reference the primary key of another entity.
+
+7. Define additional constraints or rules that need to be enforced on the data, such as uniqueness, referential integrity, and data types.
+
